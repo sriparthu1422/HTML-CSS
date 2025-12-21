@@ -1,0 +1,13 @@
+1a. Create a button with the text "Click" inside
+
+2b. Create 2 buttons. 1 with your name and 1 with your favorite food
+
+3c. Create a paragraph with the text "Hello, world!" inside
+
+4d. Create a paragraph below the previous paragraph and write something you did today
+
+5e. Create a link to google.com with the text "Search with google"
+
+6f. Make the link from the previous exercise (1e) open in the new tab
+
+7g. Try to copy design using HTML (the link goes to amazon.com)
