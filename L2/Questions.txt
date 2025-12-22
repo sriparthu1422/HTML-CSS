@@ -1,0 +1,11 @@
+1. Create a uber "Request now" button using HTML and CSS.
+
+2. create a Amazon "Add to Cart" button using HTML, CSS and use background color "rgb(255, 216, 20)"
+
+3. create a GitHub "Sign up" button using HTML, CSS and use background color "rgb(46, 164, 79)"
+
+4. create a Bootstrap "Get started" use background color "rgb(46, 164, 79)" & "Download" use text color "rgb(108, 117, 125)" buttons using HTML, CSS.
+
+5. create a LinkedIn "Apply on company website" use background color "rgb(10, 102, 194)" & "Save" use text color "rgb(10, 102, 194)" buttons using HTML, CSS.
+
+6. Continuing from the exercise 1g. recreate this design using css: for "Back to Amazon" link use this color: rgb(0, 113, 113), for "Nike Balck Running Shoes" increase the font size and make it bold, for "$39 - in stock" use rgb(0, 118, 0) increase the font size less then above text and make it bold, for "Free delivery tomorrow", increase the font size same as above text, for "Add to Cart" button style the button as previous exercise and use background color rgb(255, 164, 28) and "Buy now" use rgb(255, 164, 28)
