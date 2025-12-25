@@ -1,0 +1,13 @@
+4a - 4e. Modify exercise 3a - 3e to use padding insted of height and width.
+
+4f. Create "SUBSCRIBE", "JOIN", "TWEET" buttons using html and css and use padding to them insted of height/width
+
+4g. Use the Chrome DevTools to get the exact color for the subscribe button and update it in the code
+
+4h. Create a button called "Back", "Next" in between that use anchor tag 1, 2, 3, 4, 5. This is called Pagination
+
+4i. Create a button called "Stretch" when you hover on it the button should stretch to certain size.
+
+4j. Create a button called "Shadow" when you click on it the button should look like 3D click.
+
+4k. Create a buttons called "One", "Two", "Three" when you hover on it the button should incrence the size of the padding to its perfect margin.
