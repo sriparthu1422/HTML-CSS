@@ -6,6 +6,6 @@
 
 3d. Copy the code from (2d) and use CSS Pseudo-Classes called hover to the selector use property like "background color", "transtion", "text color" to the selector
 
-3f. Copy the code from (2e) and use CSS Pseudo-Classes called hover to the selector use property like "opacity" and "transtion" to the selector
+3e. Copy the code from (2e) and use CSS Pseudo-Classes called hover to the selector use property like "opacity" and "transtion" to the selector
 
-3g. Copy the code from (2f) and use CSS Pseudo-Classes called hover to the selector use property like "color" and use rgb(199, 81, 31) for amazon link, "add to cart" use "background color" for rgb(247, 202, 0)  and "active" use "opacity" and "buy now" button use bacground-color rgb(250, 137, 0) and "active" use "opacity" to the selector
+3f. Copy the code from (2f) and use CSS Pseudo-Classes called hover to the selector use property like "color" and use rgb(199, 81, 31) for amazon link, "add to cart" use "background color" for rgb(247, 202, 0)  and "active" use "opacity" and "buy now" button use bacground-color rgb(250, 137, 0) and "active" use "opacity" to the selector
