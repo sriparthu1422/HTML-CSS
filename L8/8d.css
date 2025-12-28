@@ -1,0 +1,38 @@
+input{
+    border: 1px solid rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.fname{
+    width: 148px;
+}
+
+.sname{
+    width: 148px;
+}
+
+.email{
+    display: block;
+    width: 335px;
+}
+
+.sign-btn{
+    width: 370px;
+    color: white;
+    background-color: rgb(47, 127, 231);
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+}
