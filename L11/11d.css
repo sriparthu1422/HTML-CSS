@@ -1,0 +1,68 @@
+.card-grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+}
+
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: Arial;
+}
+
+.profile{
+    width: 200px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.6);
+    vertical-align: top;
+    margin-right: 12px;
+}
+
+.profile-image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 1px;
+}
+
+.image-name{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 12px;
+    margin-bottom: 5px;
+}
+
+.mutal-row{
+    display: grid;
+    grid-template-columns: 35px 1fr;
+    column-gap: 10px;
+    align-items: center;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+
+.mutal-image{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 14px;
+    vertical-align: top;
+    margin-right: 4px;
+}
+
+.mutal-friend{
+    color: rgb(100, 100, 100);
+}
+
+.add-btn{
+    background-color: rgb(24, 119, 242);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
